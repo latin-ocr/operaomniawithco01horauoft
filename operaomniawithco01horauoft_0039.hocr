@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniawithco01horauoft_0039.png"; bbox 0 0 1832 3140; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 234 3140">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 234 3140">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 234 3140; baseline 0 -1998"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 234 3140; x_wconf 95' lang='lat' dir='ltr'><strong>   </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 73 1279 1527 1411">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 73 1263 1527 1412">
+     <span class='ocr_line' id='line_1_2' title="bbox 73 1279 1527 1411; baseline -0.001 -34"><span class='ocrx_word' id='word_1_2' title='bbox 73 1279 574 1411; x_wconf 18' lang='grc' dir='ltr'>[χρ-ΠΙΝΤΙ.</span> <span class='ocrx_word' id='word_1_3' title='bbox 622 1310 1076 1408; x_wconf 46' lang='lat' dir='ltr'>HORATII,</span> <span class='ocrx_word' id='word_1_4' title='bbox 1150 1305 1527 1376; x_wconf 76' lang='lat' dir='ltr'>FLACCI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 253 1494 1438 1662">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 253 1494 1438 1662">
+     <span class='ocr_line' id='line_1_3' title="bbox 253 1494 1438 1558; baseline -0.002 -14"><span class='ocrx_word' id='word_1_5' title='bbox 253 1494 618 1558; x_wconf 83' lang='lat' dir='ltr'><strong>CARMINA,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 665 1495 980 1544; x_wconf 87' lang='lat' dir='ltr'><strong>CARMEN</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1029 1494 1438 1552; x_wconf 87' lang='lat' dir='ltr'>SECULARE,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 546 1588 1352 1662; baseline -0.001 -1"><span class='ocrx_word' id='word_1_8' title='bbox 546 1612 852 1662; x_wconf 85' lang='lat' dir='ltr'>EPODON</span> <span class='ocrx_word' id='word_1_9' title='bbox 905 1611 1138 1661; x_wconf 85' lang='lat' dir='ltr'><strong>LIBER.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1349 1588 1352 1589; x_wconf 45' lang='lat'><em>⁷</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 285 3047 296 3059">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 285 3047 296 3059">
+     <span class='ocr_line' id='line_1_5' title="bbox 285 3047 296 3059; baseline 0 81"><span class='ocrx_word' id='word_1_11' title='bbox 285 3047 296 3059; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
